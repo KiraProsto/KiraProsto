@@ -16,6 +16,7 @@ name: Kira Lugovskaya
 nickname: KiraProsto0_0
 located_in: Simferopol, Crimea
 current_job: Full Stack Developer
+
 education:
   [
     "Self-Taught Developer and Designer",
@@ -36,8 +37,18 @@ skills: [ "HTML", "CSS", "JavaScript", "Python", "Fast learner", "Visual design"
 hobbies: ["Playing guitar", "Creating visual designs", "Skateboarding", "Traveling"]
 
 ```
-
+---
+<h2> Tools & Technologies 🛠️ </h2>
+<p align = "left">
+  <img src = "https://img.icons8.com/?size=48&id=102978&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=46&id=amXjtNWVYSKP&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=50&id=7hA5Ny9rDAmV&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=49&id=38272&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=46&id=39854&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=46&id=cHBUT9SmrD2V&format=png&color=DC00A0">
+  <img src = "https://img.icons8.com/?size=46&id=12592&format=png&color=DC00A0">
+</p>
 
 <p align = "center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=custom_gradient=0:FFD700,5:DC00A0,100:FDD10A&fontAlignY=44&fontColor=FFF&section=footer">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=custom_gradient=0:FFD700,5:FDD10A,100:DC00A0&fontAlignY=44&fontColor=FFF&section=footer">
 </p>
