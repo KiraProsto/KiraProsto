@@ -8,7 +8,26 @@
   <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1hbnZoNjRmMXQ3aGs2ZzJiaWtxZjh5NzlpczFhcHJnMXRjaWowayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
+<h2 align="center"> Contact Me 💬 </h2>
+<p align = "center">
+  <a> 
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6b4a26e2-f61f-45c1-8c5b-6ec35a3b8f89" />
+  </a>
+  <a>
+    <img width="48" alt="image" src="https://github.com/user-attachments/assets/d42ef8bc-0087-4a40-bdd6-13fc46aeb798">
+  </a>
+  <a>
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/9798f50e-d41a-4e67-b5fd-89049c390ed4" />
+  <a>
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f1df01d1-dd7e-4964-8f38-ee35535e545f" />
+  </a>
+  <a>
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/8b1d66f3-77fc-4f89-b56d-7bb2285aa562" />
+  </a>
+</p>
+    
 ---
+
 <h2> About Me ✨ </h2>
 
 ```yaml
@@ -49,23 +68,7 @@ hobbies: ["Playing guitar", "Creating visual designs", "Skateboarding", "Traveli
   <img src = "https://img.icons8.com/?size=46&id=12592&format=png&color=DC00A0">
 </p>
 
-<h2> Contact Me 💬 </h2>
-<p align = "center">
-  <a> 
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6b4a26e2-f61f-45c1-8c5b-6ec35a3b8f89" />
-  </a>
-  <a>
-    <img width="48" alt="image" src="https://github.com/user-attachments/assets/d42ef8bc-0087-4a40-bdd6-13fc46aeb798">
-  </a>
-  <a>
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/9798f50e-d41a-4e67-b5fd-89049c390ed4" />
-  <a>
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f1df01d1-dd7e-4964-8f38-ee35535e545f" />
-  </a>
-  <a>
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/8b1d66f3-77fc-4f89-b56d-7bb2285aa562" />
-  </a>
-</p>
+
 
 <p align = "center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=custom_gradient=0:FFD700,5:FDD10A,100:DC00A0&fontAlignY=44&fontColor=FFF&section=footer">
