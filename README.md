@@ -68,7 +68,13 @@ hobbies: ["Playing guitar", "Creating visual designs", "Skateboarding", "Traveli
   <img src = "https://img.icons8.com/?size=46&id=12592&format=png&color=DC00A0">
 </p>
 
+---
 
+<h2> Pixels, Commits & Growth 📈 </h2>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=KiraProsto&show_icons=true&theme=transparent&title_color=FA247B&text_color=B0B0B0&icon_color=F2CF38">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KiraProsto&theme=transparent&ring=FA247B&fire=F2CF38&currStreakLabel=B0B0B0&sideLabels=B0B0B0&sideNums=FA247B&currStreakNum=B0B0B0&dates=BFAF3A">
+</p>
 
 <p align = "center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=custom_gradient=0:FFD700,5:FDD10A,100:DC00A0&fontAlignY=44&fontColor=FFF&section=footer">
